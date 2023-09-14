@@ -14,3 +14,5 @@ Neste projeto criei um site que utiliza HTML, CSS e JavaScript para exibir infor
 - Lista de Pokémons com fotos e tipos
 - Design responsivo
 - Botão "Carregar mais"
+
+![responsive-01](https://github.com/marceleeller/project-pokedex/assets/126519901/dbe69d01-402c-4029-a17d-5f3a8b88f4a2)
