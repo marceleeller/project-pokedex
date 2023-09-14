@@ -68,6 +68,10 @@
     padding: 1rem;
     color: white;
     border-radius: 1rem;
+    background-image: url(icon/pokeball-icon.svg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 7rem;
 }
 
 .pokemon .number {
